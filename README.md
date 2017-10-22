@@ -12,6 +12,13 @@ Car Logos CNN - building my own car logos classifying neural network
 # Description
 CarL-CNN was trained with 20,778 50x50px RGB images depicting logotypes of 40 different car brands. The dataset was handpicked from loosely scraped websites and contain images, photos, drawings, sketches at various color schemes (black/white, RGB, CMYK, one-color), different angles and can sometimes contain some noise (other logotypes, background, etc.)
 
+# Model Metrics
+The model got the below scores:
+Precision: 80.78%
+Recall: 80.22%
+F1 score: 80.24%
+Accuracy: 80.22%
+
 # Links - needed for the full run of CarL-CNN
 (unzip to folder, where CarLogosCNN.ipynb resides)
 
