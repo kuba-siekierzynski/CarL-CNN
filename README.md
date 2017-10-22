@@ -4,7 +4,7 @@ Car Logos CNN - building my own car logos classifying neural network
 # Description
 CarL-CNN was trained with 20,778 50x50px RGB images depicting logotypes of 40 different car brands. The dataset was handpicked from loosely scraped websites and contain images, photos, drawings, sketches at various color schemes (black/white, RGB, CMYK, one-color), different angles and can sometimes contain some noise (other logotypes, background, etc.)
 
-# Links - needed for the full run of CarL-CNN
+# Links - needed for the full run of CarL-CNN - at Google Drive, as github does not allow large files to be stored just like that
 (unzip to folder, where CarLogosCNN.ipynb resides)
 
 Model weights (1 file, 140 MB) - http://u.42.pl/GEt0_model_weights
