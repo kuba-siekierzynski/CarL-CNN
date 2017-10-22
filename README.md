@@ -14,10 +14,10 @@ CarL-CNN was trained with 20,778 50x50px RGB images depicting logotypes of 40 di
 
 # Model Metrics
 The model got the below scores:
-Precision: 80.78%
-Recall: 80.22%
-F1 score: 80.24%
-Accuracy: 80.22%
+- Precision: 80.78%
+- Recall: 80.22%
+- F1 score: 80.24%
+- Accuracy: 80.22%
 
 # Links - needed for the full run of CarL-CNN
 (unzip to folder, where CarLogosCNN.ipynb resides)
