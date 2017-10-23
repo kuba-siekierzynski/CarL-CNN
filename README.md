@@ -9,24 +9,24 @@ Car Logos CNN - building my own car logos classifying neural network
 
 ![maserati13405_small](https://user-images.githubusercontent.com/23619663/31866863-d1268516-b785-11e7-84d1-1576dae03c6f.jpg)![mazda10525_small](https://user-images.githubusercontent.com/23619663/31866864-d1411a0c-b785-11e7-83e7-1c22de05163f.jpg)![mercedes8343_small](https://user-images.githubusercontent.com/23619663/31866865-d15892e0-b785-11e7-87aa-3dd73ea16222.jpg)![mitsubishi5983_small](https://user-images.githubusercontent.com/23619663/31866866-d16fd540-b785-11e7-85cc-37aeea08d523.jpg)![nissan12950_small](https://user-images.githubusercontent.com/23619663/31866867-d189f308-b785-11e7-808d-90800e4ae26f.jpg)![opel1225_small](https://user-images.githubusercontent.com/23619663/31866868-d1a48ba0-b785-11e7-884e-0bba83bb14a2.jpg)![peugeot14973_small](https://user-images.githubusercontent.com/23619663/31866869-d1bfe972-b785-11e7-8d18-dac9522af324.jpg)![porsche4461_small](https://user-images.githubusercontent.com/23619663/31866870-d1d975e0-b785-11e7-9837-dbf3cd59ecbd.jpg)![renault15832_small](https://user-images.githubusercontent.com/23619663/31866871-d1f3acb2-b785-11e7-843f-5a0abf9e935c.jpg)![rover3743_small](https://user-images.githubusercontent.com/23619663/31866872-d20ffaac-b785-11e7-8227-2b22f71e2839.jpg)
 
-# Description
+## Description
 CarL-CNN was trained with 20,778 50x50px RGB images depicting logotypes of 40 different car brands. The dataset was handpicked from loosely scraped websites and contain images, photos, drawings, sketches at various color schemes (black/white, RGB, CMYK, one-color), different angles and can sometimes contain some noise (other logotypes, background, etc.)
 
-# Model Metrics
+## Model Metrics
 The model got the below scores:
 - Precision: 80.78%
 - Recall: 80.22%
 - F1 score: 80.24%
 - Accuracy: 80.22%
 
-# Links - needed for the full run of CarL-CNN
+## Links - needed for the full run of CarL-CNN
 (unzip to folder, where CarLogosCNN.ipynb resides)
 
 - Model weights (1 file, 140 MB) - http://u.42.pl/GEt0_model_weights
 - Images (20778 files, 54 MB - ZIP) for the train and test set - http://u.42.pl/GEt7_images
 - New images (12 files, 677 kB) unseen during the training - http://u.42.pl/GEtf_new_images
 
-# Requirements
+## Requirements
 - numpy
 - matplotlib
 - scikit-learn
