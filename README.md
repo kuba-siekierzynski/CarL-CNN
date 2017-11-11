@@ -11,10 +11,16 @@ It classifies a given image by attributing a predicted brand label:
 
 ## Model Metrics
 The model got the below scores:
-- Precision: 80.78%
-- Recall: 80.22%
-- F1 score: 80.24%
-- Accuracy: 80.22%
+- Precision: 94.20%
+- Recall: 94.03%
+- F1 score: 94.04%
+- Accuracy: 94.03%
+
+## Features
+The Jupyter Notebook file contains method definitions for showcasing, class probability prediction and new image recognition.
+
+## Future development
+I plan to make it into a web application and enable adding user-owned images for classification. Later on, using sl4a, I plan to make it into an Android application and enable car logo recognition by mobile camera -- a True computer vision!
 
 ## Links - needed for the full run of CarL-CNN
 (unzip to folder, where CarLogosCNN.ipynb resides)
