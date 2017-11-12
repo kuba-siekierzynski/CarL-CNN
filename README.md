@@ -18,6 +18,9 @@ The model got the below scores:
 
 ## Features
 The Jupyter Notebook file contains method definitions for showcasing, class probability prediction and new image recognition.
+Also, a closer examination of the wrongly predicted cases is done to analyze which car brands need some dataset enrichment.
+
+![](https://user-images.githubusercontent.com/23619663/32703811-9154d1be-c7fb-11e7-80c8-d5ea1bc07ffc.png)
 
 ## Future development
 I plan to make it into a web application and enable adding user-owned images for classification. Later on, using sl4a, I plan to make it into an Android application and enable car logo recognition by mobile camera -- a True computer vision!
